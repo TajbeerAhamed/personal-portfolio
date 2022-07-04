@@ -14,6 +14,7 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 200px;
 }
 
 .top-banner {
@@ -37,4 +38,10 @@ section {
     background-image: linear-gradient(tomato, red);
     padding: 10px 40px;
     border-radius: 5px;
+}
+
+.drea-big {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
